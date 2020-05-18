@@ -14,7 +14,7 @@
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | DONE |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
