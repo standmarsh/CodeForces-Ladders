@@ -21,8 +21,8 @@
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | DONE |
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | DONE |
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | DONE |
-| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
-| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
+| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | DONE |
+| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | DONE |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
