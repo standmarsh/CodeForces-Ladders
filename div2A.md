@@ -18,9 +18,9 @@
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | DONE |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | DONE |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | DONE |
-| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
-| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
-| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
+| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | DONE |
+| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | DONE |
+| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | DONE |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
