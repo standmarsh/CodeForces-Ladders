@@ -23,9 +23,9 @@
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | DONE |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | DONE |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | DONE |
-| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
-| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
-| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
+| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | KIND OF |
+| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | KIND OF |
+| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | DONE |
 | 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
 | 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
 | 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
