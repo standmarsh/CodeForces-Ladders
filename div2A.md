@@ -32,7 +32,7 @@
 | 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | DONE |
 | 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | DONE |
 | 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | DONE |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
+| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | DONE |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
 | 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
 | 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
