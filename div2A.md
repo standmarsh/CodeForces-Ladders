@@ -55,7 +55,7 @@
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
 | 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 | DONE |
-| 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
+| 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 | DONE |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
 | 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
