@@ -24,7 +24,7 @@
 | 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 | DONE |
 | 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 | DONE |
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 | DONE |
-| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 |  |
+| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 | DONE |
 | 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 |  |
 | 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 |  |
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 |  |
