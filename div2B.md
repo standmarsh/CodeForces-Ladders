@@ -26,7 +26,7 @@
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 | DONE |
 | 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 | DONE |
 | 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 |  |
-| 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 |  |
+| 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 | DONE |
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 |  |
 | 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 |  |
 | 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 |  |
